@@ -1,10 +1,10 @@
 # android-http-app
 
-<h2>Uses [Volly](https://developer.android.com/training/volley/simple)</h2>
+<h2>Uses <a href="https://developer.android.com/training/volley/simple">Volly</a></h2>
 
 <p>This was developed using Android Studio</p>
 
-<p>Use `android-http-server` for the app to communicate with the server.</p>
+<p>Use <a href="https://github.com/JSON-G/android-http-server">android-http-server</a> for the app to communicate with the server.</p>
 
 <p>`10.0.2.2` is used as access to server locally (localhost) because this app is tested on a virtual android machine native to Android Studio.</p> 
 
